@@ -1,5 +1,7 @@
 Just a collection of repos managed by @robjtede with help from others.
 
+If you need to hand off a crate to a group that will take care of it going forwards, please reach out to me on Discord (@robjtede).
+
 <!--
 
 **Here are some ideas to get you started:**

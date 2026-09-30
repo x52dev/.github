@@ -1,6 +1,6 @@
 Just a collection of repos managed by @robjtede with help from others.
 
-[![Discord: Join chat](https://img.shields.io/badge/Discord-Join%20chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/9GSTbJ3RP6)
+[![Chat on Discord](https://img.shields.io/discord/1554698838651179088?label=chat&logo=discord)](https://discord.gg/9GSTbJ3RP6)
 
 If you need to hand off a crate to a group that will take care of it going forwards, please reach out to me on Discord (@robjtede).
 
